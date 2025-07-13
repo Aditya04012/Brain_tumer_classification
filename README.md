@@ -155,9 +155,9 @@ model.save('my_model.h5')
 
 ## ✍️ Author
 
-**Your Name**
-📧 [adityabhatnagar0403@gmail.com](adityabhatnagar0403@gmail.com)
-🔗 [https://github.com/Aditya04012](https://github.com/Aditya04012)
+**Aditya Bhatagar**
+📧 [Gmail](adityabhatnagar0403@gmail.com)
+🔗 [Git](https://github.com/Aditya04012)
 
 ---
 
