@@ -156,7 +156,6 @@ model.save('my_model.h5')
 ## ✍️ Author
 
 **Aditya Bhatagar**
-📧 [Gmail](adityabhatnagar0403@gmail.com)
 🔗 [Git](https://github.com/Aditya04012)
 
 ---
